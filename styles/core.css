@@ -1,0 +1,22 @@
+.display{
+    background-color:#858694;
+    height:100px;
+}
+
+.keyresult{
+    margin-top: 0.3em;
+    font-size:3em;
+    float: right;
+    margin-bottom: 0.3em;
+}
+
+.key{
+    width: 100%
+}
+
+.key-section{
+    font-size:3em;
+    background-color: #e0e0e0;
+    border:1px solid #858694;
+   
+}
